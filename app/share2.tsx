@@ -1,0 +1,22 @@
+export const product ={
+  name:'product',
+  type:'string',
+  title:'Product',
+  feilds:[
+    {
+      name:'title',
+      type:'string',
+      title:'Title'
+    },
+    {
+      name:'description',
+      type:'string',
+      title:'Discription'
+    },
+    {
+      name:'image',
+      type:'image',
+      title:'Image'
+    },
+  ]
+}
